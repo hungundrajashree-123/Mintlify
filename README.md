@@ -343,4 +343,7 @@ Here,I have given my html file which i tried to create for Mintlify website.
 
 
 
+
+[mintlify.html](https://github.com/user-attachments/files/25142961/mintlify.html)
+
  
