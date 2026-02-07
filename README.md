@@ -3,8 +3,6 @@
  I recreated Top Navigation Bar,Hero section,Row of company logos,UI preview,Case studies,cta buttons,and footer with multi coloumn links and company information.
 
 
- [mintlify.html](https://github.com/user-attachments/files/25142942/mintlify.html)
-
 Here,I have given my html file which i tried to create for Mintlify website.
 
 <!DOCTYPE html>
